@@ -1,9 +1,0 @@
-{
-  "npmClient": "yarn",
-  "packages": [
-    "packages/*"
-  ],
-  "version": "8.1.4",
-  "tagVersionPrefix": "",
-  "lerna": "2.0.0"
-}
