@@ -1,5 +1,5 @@
 'use strict';
-const axios = require('axios');
+import axios from 'axios';
 const pkg = require('../../package.json');
 const {
   helpers: {
